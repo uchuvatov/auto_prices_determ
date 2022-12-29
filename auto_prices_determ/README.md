@@ -8,4 +8,4 @@
 
 ## Используемые библиотеки
 
-*numpy, pandas, matplotlib, sklearn, sweetviz*
+*category_encoders, lightgbm, numpy, pandas, time, sklearn*
